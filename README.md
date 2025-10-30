@@ -48,3 +48,11 @@ Visualization of the actual versus predicted DEPVAR values further validates the
 # PairPlot Analysis:
 <img width="1192" height="780" alt="image" src="https://github.com/user-attachments/assets/0981801a-ff51-4f80-8609-12e3a3384da6" />
 
+# Multiple Linear Regression
+<img width="1024" height="965" alt="image" src="https://github.com/user-attachments/assets/212d4ced-3e03-4149-be76-21b6c7b1162f" />
+<img width="1148" height="1028" alt="image" src="https://github.com/user-attachments/assets/18e89db5-84bc-4961-99a5-203d6fa710df" />
+<img width="975" height="527" alt="image" src="https://github.com/user-attachments/assets/0a860cd0-ce05-4f4f-b745-fdd0fd018335" />
+<img width="975" height="527" alt="image" src="https://github.com/user-attachments/assets/bfa82122-0745-407e-a6c0-219c04e01511" />
+<img width="1232" height="492" alt="image" src="https://github.com/user-attachments/assets/b30df0db-ad72-42c6-a7dc-09b480bc2c95" />
+# Final Multilinear plot
+<img width="1232" height="492" alt="image" src="https://github.com/user-attachments/assets/a74235bf-8791-4029-ae4d-6125c76ae974" />
