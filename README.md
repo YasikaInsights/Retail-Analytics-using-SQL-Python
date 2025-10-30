@@ -9,6 +9,8 @@
 <img width="757" height="555" alt="image" src="https://github.com/user-attachments/assets/9c92a2cf-8f5a-463a-81e0-db36ef1d243b" />
 <img width="792" height="570" alt="image" src="https://github.com/user-attachments/assets/e0262a36-c3cc-48db-9fad-8fcdf85cff14" />
 <img width="798" height="577" alt="image" src="https://github.com/user-attachments/assets/5f39ae04-8717-4a16-a0be-5b783e084af3" />
+<img width="1196" height="651" alt="image" src="https://github.com/user-attachments/assets/15163504-9989-477e-bbbf-247a99379fa3" />
+
 # Visualization of the model performance: Scatter plot and trend line :
 <img width="822" height="578" alt="image" src="https://github.com/user-attachments/assets/335b8ab4-b42c-4a5b-84e1-484e93073881" />
 
