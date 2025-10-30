@@ -1,7 +1,5 @@
 # Python Project: Retail-Analytics
 
-# Process :
-
 # First Process:
 To analyze marketing trend right data and accurate records plays a vital role. Understanding customers behavior, needs, style of purchase helps in marketing strategies and target audience.
 Customer, Product and Transaction data can be used to track customer history and future purchasing and can identify most repeated customers and sales by Customers ID’s(Unique identification) with purchasing records.
